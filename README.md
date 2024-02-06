@@ -1,2 +1,3 @@
 # Speech Synthesis App
-Web Speech API
+
+This app uses the Web Speech API to add speech synthesis capabilities.
